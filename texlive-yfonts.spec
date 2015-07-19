@@ -6,7 +6,7 @@
 # catalog-version 1.3
 Name:		texlive-yfonts
 Version:	1.3
-Release:	9
+Release:	10
 Summary:	Support for old German fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yfonts
