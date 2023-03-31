@@ -1,6 +1,6 @@
 Name:		texlive-yfonts
 Version:	50755
-Release:	1
+Release:	2
 Summary:	Support for old German fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yfonts
