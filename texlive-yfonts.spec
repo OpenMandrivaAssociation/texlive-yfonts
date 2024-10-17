@@ -3,7 +3,7 @@ Version:	50755
 Release:	2
 Summary:	Support for old German fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yfonts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yfonts
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yfonts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yfonts.doc.r%{version}.tar.xz
